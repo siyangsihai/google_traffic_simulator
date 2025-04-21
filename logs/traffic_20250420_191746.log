@@ -1,3 +1,0 @@
-2025-04-20 19:17:46,365 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
-2025-04-20 19:17:48,873 - google_traffic - CRITICAL - 系统错误: [Errno 8] Exec format error: '/Users/guoyang/.wdm/drivers/chromedriver/mac64/135.0.7049.95/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
-2025-04-20 19:17:48,873 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

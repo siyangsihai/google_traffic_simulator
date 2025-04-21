@@ -1,3 +1,0 @@
-2025-04-20 19:00:01,535 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
-2025-04-20 19:00:01,536 - google_traffic - CRITICAL - 系统错误: Not a boolean: True         # 是否启用代理IP
-2025-04-20 19:00:01,536 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

@@ -1,4 +1,0 @@
-2025-04-20 19:13:27,999 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
-2025-04-20 19:13:30,532 - google_traffic - CRITICAL - 系统错误: Message: Could not create a session: You must enable 'Allow remote automation' in the Developer section of Safari Settings to control Safari via WebDriver.
-
-2025-04-20 19:13:30,571 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

@@ -1,7 +1,0 @@
-2025-04-20 19:30:24,666 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
-2025-04-20 19:30:28,416 - google_traffic - INFO - 使用关键词: dior discount code
-2025-04-20 19:31:09,806 - google_traffic - WARNING - 未找到匹配的目标网站链接
-2025-04-20 19:31:09,807 - google_traffic - INFO - 完成第 1/30 次访问
-2025-04-20 19:31:09,807 - google_traffic - INFO - 等待 68.71 秒后进行下一次访问
-2025-04-20 19:32:15,680 - google_traffic - INFO - 用户中断，正在退出...
-2025-04-20 19:32:15,681 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止
