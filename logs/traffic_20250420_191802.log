@@ -1,0 +1,273 @@
+2025-04-20 19:18:02,591 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
+2025-04-20 19:18:14,887 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:15,021 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000102f36e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102f2f0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102a768d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102a6ee38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000102a60fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x0000000102a629cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000102a61454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000102a60dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000102a60b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x0000000102a5e8f8 chromedriver + 190712
+10  chromedriver                        0x0000000102a5f354 chromedriver + 193364
+11  chromedriver                        0x0000000102a79888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000102aff224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x0000000102afe7b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000102ab1a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x0000000102efbc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x0000000102efef64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x0000000102edba20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x0000000102eff7e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000102eccb14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x0000000102f1f9c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000102f1fb50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000102f2ecf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:18,270 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:18,378 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000105216e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x000000010520f0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000104d568d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000104d4ee38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000104d40fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x0000000104d429cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000104d41454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000104d40dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000104d40b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x0000000104d3e8f8 chromedriver + 190712
+10  chromedriver                        0x0000000104d3f354 chromedriver + 193364
+11  chromedriver                        0x0000000104d59888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000104ddf224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x0000000104dde7b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000104d91a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x00000001051dbc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x00000001051def64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x00000001051bba20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x00000001051df7e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x00000001051acb14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x00000001051ff9c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x00000001051ffb50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x000000010520ecf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:21,589 - google_traffic - INFO - 使用关键词: dior promo code 2025
+2025-04-20 19:18:21,672 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000102e1ee10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102e170ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010295e8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102956e38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000102948fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x000000010294a9cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000102949454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000102948dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000102948b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x00000001029468f8 chromedriver + 190712
+10  chromedriver                        0x0000000102947354 chromedriver + 193364
+11  chromedriver                        0x0000000102961888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x00000001029e7224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x00000001029e67b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000102999a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x0000000102de3c98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x0000000102de6f64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x0000000102dc3a20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x0000000102de77e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000102db4b14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x0000000102e079c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000102e07b50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000102e16cf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:24,758 - google_traffic - INFO - 使用关键词: dior promo code 2025
+2025-04-20 19:18:24,837 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x000000010312ee10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001031270ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102c6e8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102c66e38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000102c58fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x0000000102c5a9cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000102c59454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000102c58dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000102c58b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x0000000102c568f8 chromedriver + 190712
+10  chromedriver                        0x0000000102c57354 chromedriver + 193364
+11  chromedriver                        0x0000000102c71888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000102cf7224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x0000000102cf67b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000102ca9a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x00000001030f3c98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x00000001030f6f64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x00000001030d3a20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x00000001030f77e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x00000001030c4b14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x00000001031179c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000103117b50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000103126cf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:28,067 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:28,154 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x00000001005fae10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001005f30ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010013a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000100132e38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000100124fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x00000001001269cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000100125454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000100124dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000100124b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x00000001001228f8 chromedriver + 190712
+10  chromedriver                        0x0000000100123354 chromedriver + 193364
+11  chromedriver                        0x000000010013d888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x00000001001c3224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x00000001001c27b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000100175a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x00000001005bfc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x00000001005c2f64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x000000010059fa20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x00000001005c37e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000100590b14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x00000001005e39c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x00000001005e3b50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x00000001005f2cf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:31,240 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:31,322 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x000000010063ae10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001006330ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010017a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000100172e38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000100164fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x00000001001669cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000100165454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000100164dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000100164b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x00000001001628f8 chromedriver + 190712
+10  chromedriver                        0x0000000100163354 chromedriver + 193364
+11  chromedriver                        0x000000010017d888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000100203224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x00000001002027b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x00000001001b5a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x00000001005ffc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x0000000100602f64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x00000001005dfa20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x00000001006037e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x00000001005d0b14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x00000001006239c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000100623b50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000100632cf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:34,684 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:34,780 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000102e96e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102e8f0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001029d68d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001029cee38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x00000001029c0fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x00000001029c29cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x00000001029c1454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x00000001029c0dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x00000001029c0b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x00000001029be8f8 chromedriver + 190712
+10  chromedriver                        0x00000001029bf354 chromedriver + 193364
+11  chromedriver                        0x00000001029d9888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000102a5f224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x0000000102a5e7b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000102a11a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x0000000102e5bc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x0000000102e5ef64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x0000000102e3ba20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x0000000102e5f7e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000102e2cb14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x0000000102e7f9c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000102e7fb50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000102e8ecf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:37,873 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:37,964 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000102d76e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102d6f0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001028b68d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001028aee38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x00000001028a0fec cxxbridge1$string$len + 4728
+5   chromedriver                        0x00000001028a29cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x00000001028a1454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x00000001028a0dc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x00000001028a0b14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x000000010289e8f8 chromedriver + 190712
+10  chromedriver                        0x000000010289f354 chromedriver + 193364
+11  chromedriver                        0x00000001028b9888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x000000010293f224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x000000010293e7b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x00000001028f1a80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x0000000102d3bc98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x0000000102d3ef64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x0000000102d1ba20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x0000000102d3f7e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000102d0cb14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x0000000102d5f9c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x0000000102d5fb50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x0000000102d6ecf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:41,140 - google_traffic - INFO - 使用关键词: dior discount code
+2025-04-20 19:18:41,222 - google_traffic - ERROR - 执行过程中出错: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000101072e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x000000010106b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000100bb28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000100baae38 cxxbridge1$string$len + 61636
+4   chromedriver                        0x0000000100b9cfec cxxbridge1$string$len + 4728
+5   chromedriver                        0x0000000100b9e9cc cxxbridge1$string$len + 11352
+6   chromedriver                        0x0000000100b9d454 cxxbridge1$string$len + 5856
+7   chromedriver                        0x0000000100b9cdc8 cxxbridge1$string$len + 4180
+8   chromedriver                        0x0000000100b9cb14 cxxbridge1$string$len + 3488
+9   chromedriver                        0x0000000100b9a8f8 chromedriver + 190712
+10  chromedriver                        0x0000000100b9b354 chromedriver + 193364
+11  chromedriver                        0x0000000100bb5888 cxxbridge1$string$len + 105236
+12  chromedriver                        0x0000000100c3b224 cxxbridge1$string$len + 652464
+13  chromedriver                        0x0000000100c3a7b8 cxxbridge1$string$len + 649796
+14  chromedriver                        0x0000000100beda80 cxxbridge1$string$len + 335116
+15  chromedriver                        0x0000000101037c98 cxxbridge1$str$ptr + 2575000
+16  chromedriver                        0x000000010103af64 cxxbridge1$str$ptr + 2588004
+17  chromedriver                        0x0000000101017a20 cxxbridge1$str$ptr + 2443296
+18  chromedriver                        0x000000010103b7e0 cxxbridge1$str$ptr + 2590176
+19  chromedriver                        0x0000000101008b14 cxxbridge1$str$ptr + 2382100
+20  chromedriver                        0x000000010105b9c4 cxxbridge1$str$ptr + 2721732
+21  chromedriver                        0x000000010105bb50 cxxbridge1$str$ptr + 2722128
+22  chromedriver                        0x000000010106acf8 cxxbridge1$str$ptr + 2783992
+23  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:18:46,445 - google_traffic - CRITICAL - 系统错误: Could not reach host. Are you offline?
+2025-04-20 19:18:46,446 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

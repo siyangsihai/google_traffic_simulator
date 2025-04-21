@@ -1,0 +1,7 @@
+2025-04-20 19:34:44,342 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
+2025-04-20 19:34:48,127 - google_traffic - INFO - 使用关键词: dior promo code 2025
+2025-04-20 19:35:26,130 - google_traffic - WARNING - 未找到匹配的目标网站链接
+2025-04-20 19:35:26,131 - google_traffic - INFO - 完成第 1/30 次访问
+2025-04-20 19:35:26,131 - google_traffic - INFO - 等待 35.18 秒后进行下一次访问
+2025-04-20 19:35:46,155 - google_traffic - INFO - 用户中断，正在退出...
+2025-04-20 19:35:46,155 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

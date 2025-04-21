@@ -1,0 +1,3 @@
+2025-04-20 19:10:51,916 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
+2025-04-20 19:10:51,917 - google_traffic - CRITICAL - 系统错误: invalid literal for int() with base 10: '2  # Chrome'
+2025-04-20 19:10:51,917 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止

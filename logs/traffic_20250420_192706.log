@@ -1,0 +1,30 @@
+2025-04-20 19:27:06,658 - google_traffic - INFO - 谷歌搜索流量模拟系统启动
+2025-04-20 19:27:10,029 - google_traffic - INFO - 使用关键词: dior promo code 2025
+2025-04-20 19:28:09,755 - google_traffic - ERROR - 执行过程中出错: Message: element click intercepted: Element <a jsname="UWckNb" class="zReHs" href="https://www.coupons.com/coupon-codes/dior" data-ved="2ahUKEwjy-LbVwOaMAxWZRWcHHUV7KP0QFnoECCMQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.coupons.com/coupon-codes/dior&amp;ved=2ahUKEwjy-LbVwOaMAxWZRWcHHUV7KP0QFnoECCMQAQ">...</a> is not clickable at point (556, 702). Other element would receive the click: <div jsname="I3kE2c" class="MJ8UF iTPLzd rNSxBe eY4mx lUn2nc" style="position:absolute" aria-label="关于这条结果的详细信息" role="button" tabindex="0">...</div>
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000100de2e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000100ddb0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001009228d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x000000010096f1a8 cxxbridge1$string$len + 406580
+4   chromedriver                        0x000000010096d738 cxxbridge1$string$len + 399812
+5   chromedriver                        0x000000010096b54c cxxbridge1$string$len + 391128
+6   chromedriver                        0x000000010096a948 cxxbridge1$string$len + 388052
+7   chromedriver                        0x000000010095f2b0 cxxbridge1$string$len + 341308
+8   chromedriver                        0x000000010095ed3c cxxbridge1$string$len + 339912
+9   chromedriver                        0x00000001009aa7b8 cxxbridge1$string$len + 649796
+10  chromedriver                        0x000000010095da80 cxxbridge1$string$len + 335116
+11  chromedriver                        0x0000000100da7c98 cxxbridge1$str$ptr + 2575000
+12  chromedriver                        0x0000000100daaf64 cxxbridge1$str$ptr + 2588004
+13  chromedriver                        0x0000000100d87a20 cxxbridge1$str$ptr + 2443296
+14  chromedriver                        0x0000000100dab7e0 cxxbridge1$str$ptr + 2590176
+15  chromedriver                        0x0000000100d78b14 cxxbridge1$str$ptr + 2382100
+16  chromedriver                        0x0000000100dcb9c4 cxxbridge1$str$ptr + 2721732
+17  chromedriver                        0x0000000100dcbb50 cxxbridge1$str$ptr + 2722128
+18  chromedriver                        0x0000000100ddacf8 cxxbridge1$str$ptr + 2783992
+19  libsystem_pthread.dylib             0x000000018792b2e4 _pthread_start + 136
+20  libsystem_pthread.dylib             0x00000001879260fc thread_start + 8
+
+2025-04-20 19:28:13,334 - google_traffic - INFO - 使用关键词: dior promo code 2025
+2025-04-20 19:28:20,439 - google_traffic - INFO - 用户中断，正在退出...
+2025-04-20 19:28:20,439 - google_traffic - INFO - 谷歌搜索流量模拟系统已停止
